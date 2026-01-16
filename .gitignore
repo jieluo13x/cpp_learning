@@ -7,3 +7,8 @@ build/
 .vscode/
 *.swp
 *~
+.swp
+*~
+__pycache__/
+*.o
+*.out
